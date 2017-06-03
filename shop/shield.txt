@@ -1,0 +1,6 @@
+2 Buckler 1 15
+3 Light_wooden_shield 2 3
+5 Light_steel_shield 3 9
+6 Heavy_wooden_shield 4 10
+8 Heavy_steel_shield 5 20
+10 Tower_shield 7 30
